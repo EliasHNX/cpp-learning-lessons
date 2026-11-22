@@ -1,0 +1,23 @@
+# Local build outputs
+/build/
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.out
+/equal_pairs
+/game_actions
+/store
+/number_tools
+/second_smallest
+/character_and_ownership
+
+# Editor and local machine state
+.vscode/
+.idea/
+.env
+.env.*
+*.log
+*.zip
+*.tmp
